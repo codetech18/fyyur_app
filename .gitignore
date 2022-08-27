@@ -1,0 +1,19 @@
+.vscode
+__pycache__
+venv
+
+# My excludes
+*.log
+notes.txt
+*.png
+*.zip
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
